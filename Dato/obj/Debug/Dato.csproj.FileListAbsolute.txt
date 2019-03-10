@@ -1,0 +1,6 @@
+C:\Proyectos\DulceRecuerdo\Dato\bin\Debug\Dato.dll
+C:\Proyectos\DulceRecuerdo\Dato\bin\Debug\Dato.pdb
+C:\Proyectos\DulceRecuerdo\Dato\obj\Debug\Dato.csprojAssemblyReference.cache
+C:\Proyectos\DulceRecuerdo\Dato\obj\Debug\Dato.csproj.CoreCompileInputs.cache
+C:\Proyectos\DulceRecuerdo\Dato\obj\Debug\Dato.dll
+C:\Proyectos\DulceRecuerdo\Dato\obj\Debug\Dato.pdb

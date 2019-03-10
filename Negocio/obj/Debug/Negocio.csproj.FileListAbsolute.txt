@@ -1,0 +1,6 @@
+C:\Proyectos\DulceRecuerdo\Negocio\bin\Debug\Negocio.dll
+C:\Proyectos\DulceRecuerdo\Negocio\bin\Debug\Negocio.pdb
+C:\Proyectos\DulceRecuerdo\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Proyectos\DulceRecuerdo\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\DulceRecuerdo\Negocio\obj\Debug\Negocio.dll
+C:\Proyectos\DulceRecuerdo\Negocio\obj\Debug\Negocio.pdb
